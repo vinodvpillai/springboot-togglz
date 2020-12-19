@@ -31,6 +31,11 @@ mvn clean package
 java -jar target/springboot-togglz.jar
 ```
 
+### Togglz UI console:
+```
+http://localhost:8081/togglz-console/index
+```
+
 ### Endpoint details:
 
 ##### 1. Add new employee (CURL Request):
